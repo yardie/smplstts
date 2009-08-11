@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  user_id: 1
+  arrival: 2009-08-11
+  departure: 2009-08-11
+  description: MyText
+
+two:
+  user_id: 1
+  arrival: 2009-08-11
+  departure: 2009-08-11
+  description: MyText
